@@ -1,4 +1,4 @@
-# Lifeordeath
+# Sudoku 
 
 **Sudoku-GUI-Solver**
 
